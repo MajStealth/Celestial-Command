@@ -734,41 +734,41 @@ Wenn kein Objekt ausgewählt ist, torpedo startet im geführten Modus.
 #637# Benötigte Reputation
 #638# Leuchteffekte
 #639# Hintergrund anzeigen
-#640# Black space background
+#640# Dunklerer Hintergrund
 #641# Debug mode
 #642# In debug mode, when you will encounter an error, you will see a proposal to send us report an error. This will help us to fix various bugs much faster.
-#643# Directed on star
-#644# Current production
-#645# Maximum production
-#646# Star blocked by
-#647# Small solar panel
-#648# General
-#649# Control
-#650# Prices will be updated in
-#651# Once timer is elapsed the trader will recalculate its prices according to available amount of resources
-#652# Availability
-#653# If this value low - trader have shortage of this resource and ready to buy it for increased price
+#643# Auf die Sonne ausgerichtet
+#644# Aktuelle Produktion
+#645# Maximal Produktion
+#646# Schatten durch
+#647# Kleiner Sonnenkollektor
+#648# Allgemein
+#649# Steuerung
+#650# Preise werden aktualisiert in
+#651# Zeit bis zur Preisaktualisierung
+#652# Verfügbarkeit
+#653# Ist das Lager fast leer, bietet ein Händler höhere Preise für Waren
 
-If this value high - trader have abundance of this resource and ready to sell it for decreased price
-#654# How much resource this trader ready to buy
-#655# How much resource this trader ready to sell
-#656# You can buy resource for this price
-#657# You can sell resource for this price
+Ist das Lager nahezu voll,  sind Händler nicht bereit den nominalen Preis zu bezahlen
+#654# Maximal aufzukaufende Anzahl an dieser Ware
+#655# Maximal zu verkaufende Anzahl an dieser Ware
+#656# Aktueller Kaufpreis dieser Ware
+#657# Aktueller Verkaufspreis dieser Ware
 #658# Toggle radial grid
 #659# Radial grid helps to understand velocity of the ship.
 Each circle rotates around planet with orbital speed which corresponds its altitude.
 Keep your ship in the grid cell if you wish to keep circular orbit.
 Or move your ship along circle of the grid if you wish to bypass planet around.
-#660# Command module has been destroyed
-#661# Ship
-#662# This ship already have command module. Only one command module can be located on a ship.
-#663# Ships
-#664# Select command module
-#665# Take control
-#666# List of all ships
-#667# Focus view on object
+#660# Das Kommando-Modul dieses Schiffs wurde zerstört
+#661# Schiff
+#662# Dieses Schiff hat bereits ein Kommando-Modul. Jedes Schiff kann maximal ein Kommando-Modul haben.
+#663# Schiffe
+#664# Wähle das Kommando-Modul aus
+#665# Übernehme die Steuerung
+#666# Liste alle Schiffe
+#667# Auf aktuelles Ziel fokusieren
 #668# Toggle radial grid for nearest planet
-#669# You cannot remove this command module. There is a crew inside.
-#670# Open folder with saved files
-#671# Delete selected file
-#672# Saved file with such name already exist
+#669# Dieses Kommando-Modul kann nicht vernichtet werden, es ist bemannt.
+#670# Spielstandsordner öffnen
+#671# Ausgewähltes Spiel löschen
+#672# Ein Speicherstand mit diesem Namen existiert bereits
